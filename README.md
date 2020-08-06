@@ -1,4 +1,4 @@
-# README
+# Learning Rails with Daniel Kehoe's book
 
-Development branch for better version control
+[learn-rails.com](http://learn-rails.com/).
 
